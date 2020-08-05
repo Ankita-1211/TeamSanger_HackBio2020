@@ -15,6 +15,7 @@ All members of team Sanger are required to add their names here
 3. Maruf Ahmed
 4. Akurut Eva
 5. Olayemi Rotimi
+6. Ankita Kumari
 
 
 # Software used
@@ -26,7 +27,7 @@ Below here just state the software you used to generate the script. If there are
 |  Maruf Ahmed  |      R     |       R      |
 | Akurut Eva    |Julia       |  Julia installation      |
 | Olayemi Rotimi| Python 3.8
-|            |               | 
+| Ankita Kumari      | Bash              | 
 # Workflow
 ![Workflow](https://github.com/maruf-ahmed-bhuiyan/TeamSanger_HackBio2020/blob/master/Flowchart.png)
 
